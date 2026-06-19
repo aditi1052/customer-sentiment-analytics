@@ -151,15 +151,6 @@ Open `dashboard/sentiment_dashboard.pbix` in Power BI Desktop. The data source i
 
 ---
 
-## 💡 Business Recommendations
-
-Full recommendations are in [`reports/executive_summary.md`](reports/executive_summary.md). Top 3:
-
-1. **Prioritise response time SLA under 48 hours** — the clearest lever for improving customer satisfaction across all platforms.
-2. **Electronics category needs quality review** — highest complaint rate; suggest supplier audit or return policy improvement.
-3. **Focus support resources on [region] region** — consistently lowest ratings; may indicate logistics or delivery partner issues.
-
----
 
 ## 📂 Project Phases
 
