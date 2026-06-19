@@ -180,9 +180,9 @@ Phase 5 (Days 22–28) → Power BI dashboard
 
 ## 🤝 Connect
 
-**[Your Name]**
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+**Aditi Dhumal**
+- LinkedIn: www.linkedin.com/in/aditi-dhumal1052
+- Email: aditidhumal1052@gmail.com
 
 ---
 
