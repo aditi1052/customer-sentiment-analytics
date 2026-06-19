@@ -144,15 +144,10 @@ Open `dashboard/sentiment_dashboard.pbix` in Power BI Desktop. The data source i
 
 ## 📈 Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here once built)*
+> **Status:** In progress — being built in Power BI / Power BI Web.
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
-**Dashboard pages:**
-1. **Overview** — Overall sentiment KPIs, distribution donut, platform ranking
-2. **Platform deep-dive** — Side-by-side platform comparison with filters
-3. **Regional analysis** — Region × category heatmap
-4. **Support performance** — Response time vs sentiment, complaint funnel
 
 ---
 
@@ -173,7 +168,7 @@ Phase 1 (Days 1–5)   → Data collection & loading
 Phase 2 (Days 6–11)  → Cleaning & preprocessing
 Phase 3 (Days 12–17) → Sentiment scoring (VADER)
 Phase 4 (Days 18–21) → SQL analysis layer
-Phase 5 (Days 22–28) → Power BI dashboard
+Phase 5 (Days in-progress) → Power BI dashboard
 ```
 
 ---
